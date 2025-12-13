@@ -1,0 +1,19 @@
+{
+  "214461239546098@lid": {
+    "clase": "mago",
+    "nivel": 1,
+    "xp": 60,
+    "energia": 100,
+    "inventario": [
+      "Amuleto"
+    ],
+    "monedas": 21,
+    "cooldown": 0,
+    "boss": {
+      "hp": null,
+      "activo": true
+    },
+    "magia": null,
+    "velocidad": null
+  }
+}

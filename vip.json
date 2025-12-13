@@ -1,0 +1,179 @@
+{
+  "214461239546098@lid": {
+    "vipUntil": 86401765322659460,
+    "level": 1,
+    "purchases": 4,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765142954561,
+    "grantedAt": 1765139986874
+  },
+  "125675138736203@lid": {
+    "vipUntil": 1767680756110,
+    "level": 2,
+    "purchases": 28,
+    "alertaEnviada": false,
+    "purchasedAt": 1765511935440
+  },
+  "123025596936285@lid": {
+    "vipUntil": 1851706806115,
+    "level": 1,
+    "purchases": 2,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765176369312,
+    "grantedAt": 1765141247327,
+    "alertaEnviada": false
+  },
+  "123025596936285": {
+    "vipUntil": 8641765059843613,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "214461239546098",
+    "grantedAt": 1765135473113
+  },
+  "274727717335113": {
+    "vipUntil": 865765049061068,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "214461239546098",
+    "grantedAt": 1765135461068
+  },
+  "214461239546098": {
+    "vipUntil": 86400001765049100000,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "123025596936285",
+    "grantedAt": 1765135502062
+  },
+  "164055369146382@lid": {
+    "vipUntil": 86401768076171680,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "214461239546098@lid",
+      "calendario"
+    ],
+    "lastUpdated": 1765512284746,
+    "grantedAt": 1765138571686,
+    "alertaEnviada": false
+  },
+  "274727717335113@lid": {
+    "vipUntil": 1851540240758,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765176345433,
+    "grantedAt": 1765140240758,
+    "alertaEnviada": false
+  },
+  "148648969113732@lid": {
+    "vipUntil": 1765945193441,
+    "level": 2,
+    "purchases": 6,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765496423300,
+    "grantedAt": 1765496423300,
+    "alertaEnviada": false
+  },
+  "97788486537432@lid": {
+    "vipUntil": 1775705105778,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [],
+    "lastUpdated": 1765337105778,
+    "grantedAt": 1765337105778
+  },
+  "98530895097975@lid": {
+    "vipUntil": 1768795165335,
+    "level": 2,
+    "purchases": 36,
+    "alertaEnviada": false,
+    "purchasedAt": 1765421414392
+  },
+  "44977585434674@lid": {
+    "vipUntil": 1766121537024,
+    "level": 1,
+    "purchases": 4,
+    "alertaEnviada": false,
+    "purchasedAt": 1765639604117
+  },
+  "142954446503968@lid": {
+    "vipUntil": 1765680496306,
+    "level": 1,
+    "purchases": 1,
+    "alertaEnviada": false,
+    "purchasedAt": 1765421734065
+  },
+  "22162735894530@lid": {
+    "vipUntil": 1767581304721,
+    "level": 2,
+    "purchases": 23,
+    "alertaEnviada": false,
+    "purchasedAt": 1765509795318
+  },
+  "54344405798962@lid": {
+    "vipUntil": 1765941115412,
+    "level": 1,
+    "purchases": 3,
+    "alertaEnviada": false,
+    "purchasedAt": 1765597670197
+  },
+  "95215482343571@lid": {
+    "vipUntil": 1765684664575,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765512034480,
+    "grantedAt": 1765511864575,
+    "alertaEnviada": false
+  },
+  "13503729561839@lid": {
+    "vipUntil": 1766980016579,
+    "level": 2,
+    "purchases": 14,
+    "alertaEnviada": false,
+    "purchasedAt": 1765598497912
+  },
+  "163140373332075@lid": {
+    "vipUntil": 1765943248326,
+    "level": 1,
+    "purchases": 2,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765601085419,
+    "grantedAt": 1765601059438,
+    "alertaEnviada": false
+  },
+  "166164298780822@lid": {
+    "vipUntil": 1765771038869,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765598253476,
+    "grantedAt": 1765598238869,
+    "alertaEnviada": false
+  },
+  "139990617059423@lid": {
+    "vipUntil": 1765684940099,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765598540099,
+    "grantedAt": 1765598540099,
+    "alertaEnviada": false
+  }
+}
