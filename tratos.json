@@ -1,0 +1,26 @@
+{
+  "usuarios": {
+    "214461239546098": {
+      "deuda": {
+        "alastor": {
+          "cantidad": 870217728,
+          "fechaLimite": 1763623212252
+        }
+      }
+    },
+    "97358922694689": {
+      "deuda": {
+        "alastor": {
+          "cantidad": 435108864,
+          "fechaLimite": 1763620023225
+        }
+      }
+    }
+  },
+  "overload": {
+    "Alastor": {
+      "tiempoLimite": 2,
+      "imagen": "https://i.postimg.cc/C1QYJCcX/alastors-deal-face-v0-vm99mgkp7sgc1.jpg"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "geos": {
+    "min": 70,
+    "max": 100
+  },
+  "personajes": [
+    {
+      "nombre": "Vaggie",
+      "probabilidad": 90
+    }
+  ]
+}

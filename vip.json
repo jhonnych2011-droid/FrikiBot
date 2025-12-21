@@ -1,0 +1,318 @@
+{
+  "214461239546098@lid": {
+    "vipUntil": 86401765322659460,
+    "level": 1,
+    "purchases": 4,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1765142954561,
+    "grantedAt": 1765139986874
+  },
+  "125675138736203@lid": {
+    "vipUntil": 1767853556110,
+    "level": 2,
+    "purchases": 30,
+    "alertaEnviada": false,
+    "purchasedAt": 1765851823660
+  },
+  "123025596936285@lid": {
+    "vipUntil": 1852052466115,
+    "level": 1,
+    "purchases": 6,
+    "grantedBy": [],
+    "lastUpdated": 1766039018698,
+    "grantedAt": 1766039018698
+  },
+  "123025596936285": {
+    "vipUntil": 8641765059843613,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "214461239546098",
+    "grantedAt": 1765135473113
+  },
+  "274727717335113": {
+    "vipUntil": 865765049061068,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "214461239546098",
+    "grantedAt": 1765135461068
+  },
+  "214461239546098": {
+    "vipUntil": 86400001765049100000,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": "123025596936285",
+    "grantedAt": 1765135502062
+  },
+  "164055369146382@lid": {
+    "vipUntil": 86401768335371680,
+    "level": 1,
+    "purchases": 1,
+    "alertaEnviada": false,
+    "purchasedAt": 1766115876125
+  },
+  "274727717335113@lid": {
+    "vipUntil": 8.640000000018531e+23,
+    "level": 1,
+    "purchases": 12,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766044148045,
+    "grantedAt": 1766039014422,
+    "alertaEnviada": false
+  },
+  "148648969113732@lid": {
+    "vipUntil": 1766722793441,
+    "level": 2,
+    "purchases": 7,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766253115171,
+    "grantedAt": 1766039597982,
+    "alertaEnviada": false
+  },
+  "97788486537432@lid": {
+    "vipUntil": 1775877905778,
+    "level": 1,
+    "purchases": 1,
+    "alertaEnviada": false,
+    "purchasedAt": 1766112001730
+  },
+  "98530895097975@lid": {
+    "vipUntil": 1773547165335,
+    "level": 2,
+    "purchases": 83,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766249167948,
+    "grantedAt": 1766042053170,
+    "alertaEnviada": false
+  },
+  "44977585434674@lid": {
+    "vipUntil": 1766467137024,
+    "level": 1,
+    "purchases": 4,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766187480011,
+    "grantedAt": 1765931643775,
+    "alertaEnviada": false
+  },
+  "22162735894530@lid": {
+    "vipUntil": 1767926904721,
+    "level": 2,
+    "purchases": 23,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766076871561,
+    "grantedAt": 1766076833204,
+    "alertaEnviada": false
+  },
+  "54344405798962@lid": {
+    "vipUntil": 1766805115412,
+    "level": 2,
+    "purchases": 9,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766043711858,
+    "grantedAt": 1766039272064,
+    "alertaEnviada": false
+  },
+  "13503729561839@lid": {
+    "vipUntil": 1766980016579,
+    "level": 2,
+    "purchases": 14,
+    "alertaEnviada": false,
+    "purchasedAt": 1765598497912
+  },
+  "163140373332075@lid": {
+    "vipUntil": 1768189648326,
+    "level": 2,
+    "purchases": 20,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766248736029,
+    "grantedAt": 1766076758236,
+    "alertaEnviada": false
+  },
+  "155915919618060@lid": {
+    "vipUntil": 1769134977684,
+    "level": 2,
+    "purchases": 32,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766258107864,
+    "grantedAt": 1766258107864,
+    "alertaEnviada": false
+  },
+  "217407704576031@lid": {
+    "vipUntil": 1766603743304,
+    "level": 2,
+    "purchases": 10,
+    "alertaEnviada": false,
+    "purchasedAt": 1766249719296
+  },
+  "242322440732921@lid": {
+    "vipUntil": 1766684573371,
+    "level": 1,
+    "purchases": 1,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766253329978,
+    "grantedAt": 1766253329978,
+    "alertaEnviada": false
+  },
+  "95215482343571@lid": {
+    "vipUntil": 1766622311467,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766251619011,
+    "grantedAt": 1765902503665,
+    "alertaEnviada": false
+  },
+  "192242752954612@lid": {
+    "vipUntil": 1767331767705,
+    "level": 2,
+    "purchases": 5,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766260148636,
+    "grantedAt": 1766123424365,
+    "alertaEnviada": false
+  },
+  "37229061771413@lid": {
+    "vipUntil": 1766249390259,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766076590259,
+    "grantedAt": 1766076590259,
+    "alertaEnviada": false
+  },
+  "28699390939378@lid": {
+    "vipUntil": 1766422410202,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766077588090,
+    "grantedAt": 1766076810202,
+    "alertaEnviada": false
+  },
+  "97027992080542@lid": {
+    "vipUntil": 1772989759802,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [],
+    "lastUpdated": 1766077759802,
+    "grantedAt": 1766077759802
+  },
+  "236966884962356@lid": {
+    "vipUntil": 1766276722472,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766103922472,
+    "grantedAt": 1766103922472,
+    "alertaEnviada": false
+  },
+  "258015982788792@lid": {
+    "vipUntil": 1766202273964,
+    "level": 1,
+    "purchases": 1,
+    "alertaEnviada": false,
+    "purchasedAt": 1766115873964
+  },
+  "270054927138951@lid": {
+    "vipUntil": 1767373180449,
+    "level": 2,
+    "purchases": 5,
+    "alertaEnviada": false,
+    "purchasedAt": 1766250162611
+  },
+  "52562329903162@lid": {
+    "vipUntil": 1766769245527,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766250866521,
+    "grantedAt": 1766250845527,
+    "alertaEnviada": false
+  },
+  "86041683824662@lid": {
+    "vipUntil": 1767031110920,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766253613457,
+    "grantedAt": 1766253510920,
+    "alertaEnviada": false
+  },
+  "144186934321206@lid": {
+    "vipUntil": 1767117726596,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766253850089,
+    "grantedAt": 1766253726596,
+    "alertaEnviada": false
+  },
+  "130133717446719@lid": {
+    "vipUntil": 1766602908015,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766257308015,
+    "grantedAt": 1766257308015,
+    "alertaEnviada": false
+  },
+  "16123441504287@lid": {
+    "vipUntil": 1766602939385,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766257339385,
+    "grantedAt": 1766257339385,
+    "alertaEnviada": false
+  },
+  "131692958371975@lid": {
+    "vipUntil": 1766776525863,
+    "level": 1,
+    "purchases": 0,
+    "grantedBy": [
+      "calendario"
+    ],
+    "lastUpdated": 1766258140784,
+    "grantedAt": 1766258125863,
+    "alertaEnviada": false
+  }
+}

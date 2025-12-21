@@ -1,0 +1,36 @@
+{
+  "activo": true,
+  "120363403892158857@g.us": {
+    "activo": false,
+    "activadoPor": "97788486537432@lid",
+    "fechaActivacion": 1765410892225,
+    "adminsAlerta": [
+      "274727717335113@lid"
+    ]
+  },
+  "120363403654960726@g.us": {
+    "activo": true,
+    "activadoPor": "97788486537432@lid",
+    "fechaActivacion": 1765944195504,
+    "adminsAlerta": [
+      "274727717335113@lid",
+      "164055369146382@lid",
+      "97788486537432@lid"
+    ]
+  },
+  "120363404384971776@g.us": {
+    "activo": false,
+    "activadoPor": "97788486537432@lid",
+    "fechaActivacion": 1765411649240,
+    "adminsAlerta": [
+      "123025596936285@lid",
+      "125675138736203@lid"
+    ]
+  },
+  "120363356976112305@g.us": {
+    "activo": false,
+    "activadoPor": "66787295129695@lid",
+    "fechaActivacion": 1765412163874,
+    "adminsAlerta": []
+  }
+}

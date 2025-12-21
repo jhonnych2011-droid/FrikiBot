@@ -1,0 +1,32 @@
+[
+  {
+    "active": false,
+    "nombre": "Striker",
+    "vida": 100,
+    "maxVida": 100,
+    "recompensa": 1000,
+    "costoAtaque": 10,
+    "img": "https://i.postimg.cc/0QhZ9Wy1/day-9-what-are-your-unpopular-opinions-on-striker-v0-njr06ilmjkde1.jpg",
+    "enemigos": {}
+  },
+  {
+    "active": false,
+    "nombre": "Striker",
+    "vida": 100,
+    "maxVida": 100,
+    "recompensa": 1000,
+    "costoAtaque": 10,
+    "img": "https://i.postimg.cc/0QhZ9Wy1/day-9-what-are-your-unpopular-opinions-on-striker-v0-njr06ilmjkde1.jpg",
+    "enemigos": {}
+  },
+  {
+    "active": false,
+    "nombre": "PandaBot",
+    "vida": 9000,
+    "maxVida": 9000,
+    "recompensa": 150000,
+    "costoAtaque": 190,
+    "img": "https://i.postimg.cc/BnDTV41X/IMG-20251123-WA0018.jpg",
+    "enemigos": {}
+  }
+]

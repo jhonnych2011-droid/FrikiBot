@@ -1,0 +1,14 @@
+{
+  "activo": true,
+  "reclamadoPor": [],
+  "premios": {
+    "geos": {
+      "cantidad": 9000,
+      "prob": 10
+    },
+    "personaje": {
+      "nombre": "Friki Claus",
+      "prob": 70
+    }
+  }
+}

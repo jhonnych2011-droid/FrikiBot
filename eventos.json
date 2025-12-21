@@ -1,0 +1,27 @@
+{
+  "boss": {
+    "activo": true,
+    "finaliza": 2126195574803,
+    "comandos": [
+      "aguijon",
+      "mejorar",
+      "boss",
+      "atacar"
+    ]
+  },
+  "apostar": {
+    "activo": true,
+    "finaliza": 5366195567473,
+    "comandos": []
+  },
+  "jefe": {
+    "activo": false,
+    "finaliza": 1765620837888,
+    "comandos": []
+  },
+  "subbot": {
+    "activo": false,
+    "finaliza": 1765686417950,
+    "comandos": []
+  }
+}

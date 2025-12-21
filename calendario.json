@@ -1,0 +1,88 @@
+{
+  "1": {
+    "tipo": "geos",
+    "valor": "403890"
+  },
+  "2": {
+    "tipo": "personaje",
+    "valor": "Hornet"
+  },
+  "3": {
+    "tipo": "personaje",
+    "valor": "Snorlax"
+  },
+  "4": {
+    "tipo": "geos",
+    "valor": "67"
+  },
+  "5": {
+    "tipo": "personaje",
+    "valor": "Moxxie"
+  },
+  "6": {
+    "tipo": "geos",
+    "valor": "6000"
+  },
+  "7": {
+    "tipo": "personaje",
+    "valor": "gato panson"
+  },
+  "8": {
+    "tipo": "vip",
+    "valor": 86400000,
+    "tiempoTexto": "24h"
+  },
+  "9": {
+    "tipo": "personaje",
+    "valor": "Grimm"
+  },
+  "10": {
+    "tipo": "vip",
+    "valor": 86400000,
+    "tiempoTexto": "24h"
+  },
+  "11": {
+    "tipo": "personaje",
+    "valor": "Friki Claus"
+  },
+  "12": {
+    "tipo": "geos",
+    "valor": 13000
+  },
+  "13": {
+    "tipo": "personaje",
+    "valor": "subaru"
+  },
+  "14": {
+    "tipo": "vip",
+    "valor": 172800000,
+    "tiempoTexto": "48h"
+  },
+  "15": {
+    "tipo": "personaje",
+    "valor": "Loona"
+  },
+  "16": {
+    "tipo": "geos",
+    "valor": 10000
+  },
+  "17": {
+    "tipo": "geos",
+    "valor": 10000
+  },
+  "18": {
+    "tipo": "vip",
+    "valor": 172800000,
+    "tiempoTexto": "2d"
+  },
+  "19": {
+    "tipo": "geos",
+    "valor": 9836
+  },
+  "20": {
+    "tipo": "vip",
+    "valor": 345600000,
+    "tiempoTexto": "4d"
+  },
+  "214461239546098@lid": "23/11/2025"
+}

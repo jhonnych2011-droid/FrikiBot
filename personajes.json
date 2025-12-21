@@ -1,0 +1,189 @@
+{
+  "Blitzø": {
+    "precio": 10000,
+    "calidad": "og",
+    "stock": 0
+  },
+  "Kennedy": {
+    "precio": 999999999,
+    "calidad": "og",
+    "stock": 0
+  },
+  "Loona": {
+    "precio": 1300,
+    "calidad": "legendario",
+    "stock": 90
+  },
+  "Estrella": {
+    "precio": 20000,
+    "calidad": "secreto",
+    "stock": 26
+  },
+  "MiaKhalifa": {
+    "precio": 6969,
+    "calidad": "epico",
+    "stock": 74
+  },
+  "Duki": {
+    "precio": 150000,
+    "calidad": "legendario",
+    "stock": 0
+  },
+  "Zote": {
+    "precio": 100,
+    "calidad": "comun",
+    "stock": 94
+  },
+  "Celeste": {
+    "precio": 2000,
+    "calidad": "epico",
+    "stock": 46
+  },
+  "Saitama": {
+    "precio": 9000,
+    "calidad": "epico",
+    "stock": 875,
+    "multiplicador": 2,
+    "limite": 1
+  },
+  "Milo J": {
+    "precio": 111,
+    "calidad": "legendario",
+    "stock": 50,
+    "multiplicador": 1,
+    "limite": 5
+  },
+  "Moxxie": {
+    "precio": 10000,
+    "calidad": "secreto",
+    "stock": 30,
+    "multiplicador": 1,
+    "limite": 7
+  },
+  "Grimm": {
+    "precio": 5900,
+    "calidad": "epico",
+    "stock": 0,
+    "multiplicador": 1,
+    "limite": null
+  },
+  "Hornet": {
+    "precio": 8000,
+    "calidad": "legendario",
+    "stock": 10,
+    "multiplicador": 1,
+    "limite": 3
+  },
+  "Friki Claus": {
+    "precio": 890000,
+    "calidad": "secreto",
+    "stock": 100,
+    "multiplicador": 2,
+    "limite": 1
+  },
+  "Alina": {
+    "precio": 1e+68,
+    "calidad": "og",
+    "stock": 0,
+    "multiplicador": 1e+41,
+    "limite": 1
+  },
+  "Adam Navideño": {
+    "precio": 90888888,
+    "calidad": "og",
+    "stock": 26,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "Wicho Navideño": {
+    "precio": 444444444,
+    "calidad": "secreto",
+    "stock": 14,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "BotDrio Navideño 🔥": {
+    "precio": 67777777777777780,
+    "calidad": "og",
+    "stock": 2,
+    "multiplicador": 3,
+    "limite": 0
+  },
+  "Dildo Mágico 😳": {
+    "precio": 500000,
+    "calidad": "legendario",
+    "stock": 7,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "Snorlax": {
+    "precio": 800000,
+    "calidad": "secreto",
+    "stock": 33,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "Ichigo": {
+    "precio": 100000000,
+    "calidad": "og",
+    "stock": 0,
+    "multiplicador": 1e+70,
+    "limite": null
+  },
+  "Snorlax Navideño": {
+    "precio": 888999,
+    "calidad": "legendario",
+    "stock": 57,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "gato panson": {
+    "precio": 500,
+    "calidad": "comun",
+    "stock": 195,
+    "multiplicador": 1,
+    "limite": 1
+  },
+  "goku": {
+    "precio": 100000000000000,
+    "calidad": "og",
+    "stock": 0,
+    "multiplicador": 1e+35,
+    "limite": null
+  },
+  "Ram 🌸": {
+    "precio": 1990000,
+    "calidad": "secreto",
+    "stock": 0,
+    "multiplicador": 1,
+    "limite": 2
+  },
+  "Rem 🌷": {
+    "precio": 1990000,
+    "calidad": "secreto",
+    "stock": 0,
+    "multiplicador": 1,
+    "limite": 2
+  },
+  "Subaru": {
+    "precio": 18000,
+    "calidad": "legendario",
+    "stock": 95,
+    "multiplicador": 1,
+    "limite": 2
+  },
+  "RemRem": {
+    "precio": 1,
+    "calidad": "og",
+    "stock": 0,
+    "multiplicador": 1e+64,
+    "limite": 1
+  },
+  "Juice Wrld": {
+    "precio": 1,
+    "calidad": "comun",
+    "stock": 0,
+    "multiplicador": 1e+77,
+    "limite": null
+  }
+}

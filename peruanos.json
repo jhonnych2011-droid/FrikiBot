@@ -1,0 +1,215 @@
+{
+  "274727717335113@lid": {
+    "peruanos": [],
+    "agua": 1.00000000000011e+22,
+    "comida": 1e+44,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "214461239546098@lid": {
+    "peruanos": [],
+    "agua": 9999641,
+    "comida": 9963,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "164055369146382@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "98530895097975@lid": {
+    "peruanos": [],
+    "agua": 3594,
+    "comida": 3797,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "86041683824662@lid": {
+    "peruanos": [],
+    "agua": 5,
+    "comida": 1,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "123025596936285@lid": {
+    "peruanos": [],
+    "agua": 80000,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "97788486537432@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "192127342489726@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "125675138736203@lid": {
+    "peruanos": [],
+    "agua": 1,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "44977585434674@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "148648969113732@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "54344405798962@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "217407704576031@lid": {
+    "peruanos": [],
+    "agua": 14,
+    "comida": 30,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "242322440732921@lid": {
+    "peruanos": [],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [],
+      "cultivar": [],
+      "pesca": []
+    }
+  },
+  "270054927138951@lid": {
+    "peruanos": [
+      {
+        "id": 1,
+        "nombre": "Peruano #1",
+        "hambre": 12.421889583333334,
+        "sed": 16.562519444444447,
+        "durmiendo": false,
+        "horaDormir": null,
+        "area": "minar",
+        "dineroGenerado": 1124,
+        "ultimaActualizacion": 1766280064466
+      },
+      {
+        "id": 2,
+        "nombre": "Peruano #2",
+        "hambre": 12.421889583333334,
+        "sed": 16.562519444444447,
+        "durmiendo": false,
+        "horaDormir": null,
+        "area": "minar",
+        "dineroGenerado": 1124,
+        "ultimaActualizacion": 1766280064466
+      },
+      {
+        "id": 3,
+        "nombre": "Peruano #3",
+        "hambre": 12.421889583333334,
+        "sed": 16.562519444444447,
+        "durmiendo": false,
+        "horaDormir": null,
+        "area": "minar",
+        "dineroGenerado": 1124,
+        "ultimaActualizacion": 1766280064466
+      },
+      {
+        "id": 4,
+        "nombre": "Peruano #4",
+        "hambre": 12.421889583333334,
+        "sed": 16.562519444444447,
+        "durmiendo": false,
+        "horaDormir": null,
+        "area": "cultivar",
+        "dineroGenerado": 870,
+        "ultimaActualizacion": 1766280064466
+      },
+      {
+        "id": 5,
+        "nombre": "Peruano #5",
+        "hambre": 12.421889583333334,
+        "sed": 16.562519444444447,
+        "durmiendo": false,
+        "horaDormir": null,
+        "area": "cultivar",
+        "dineroGenerado": 870,
+        "ultimaActualizacion": 1766280064466
+      }
+    ],
+    "agua": 0,
+    "comida": 0,
+    "areas": {
+      "minar": [
+        1,
+        2,
+        3
+      ],
+      "cultivar": [
+        4,
+        5
+      ],
+      "pesca": []
+    }
+  }
+}

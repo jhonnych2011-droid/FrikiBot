@@ -1,0 +1,16 @@
+{
+  "120363403892158857@g.us": {
+    "activo": false,
+    "activadoPor": "97788486537432@lid",
+    "fechaActivacion": 1765516200166,
+    "adminsAlerta": [
+      "97788486537432@lid"
+    ]
+  },
+  "120363404384971776@g.us": {
+    "activo": true,
+    "activadoPor": "123025596936285@lid",
+    "fechaActivacion": 1765516218868,
+    "adminsAlerta": []
+  }
+}

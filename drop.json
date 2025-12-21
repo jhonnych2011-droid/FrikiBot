@@ -1,0 +1,158 @@
+[
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 2,
+    "reclamados": {
+      "217407704576031@lid": 2,
+      "125675138736203@lid": 2,
+      "95215482343571@lid": 2,
+      "164055369146382@lid": 2,
+      "274727717335113@lid": 2,
+      "123025596936285@lid": 1,
+      "189348465082377@lid": 2,
+      "192127342489726@lid": 1,
+      "150762579566750@lid": 2,
+      "10282889945205@lid": 2,
+      "142954446503968@lid": 1,
+      "155915919618060@lid": 2,
+      "267232999420158@lid": 1,
+      "214461239546098@lid": 2
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 2,
+    "reclamados": {
+      "125675138736203@lid": 2,
+      "95215482343571@lid": 2,
+      "164055369146382@lid": 2,
+      "189348465082377@lid": 2,
+      "155915919618060@lid": 2,
+      "274727717335113@lid": 2,
+      "150762579566750@lid": 2,
+      "214461239546098@lid": 2
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 3,
+    "reclamados": {
+      "125675138736203@lid": 1,
+      "155915919618060@lid": 3,
+      "274727717335113@lid": 3,
+      "164055369146382@lid": 1,
+      "150762579566750@lid": 3,
+      "214461239546098@lid": 3
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 3,
+    "reclamados": {
+      "274727717335113@lid": 3,
+      "155915919618060@lid": 3,
+      "150762579566750@lid": 3,
+      "214461239546098@lid": 2
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 100,
+    "limite": 2,
+    "reclamados": {
+      "274727717335113@lid": 2,
+      "155915919618060@lid": 2,
+      "150762579566750@lid": 2
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 400,
+    "limite": 3,
+    "reclamados": {
+      "155915919618060@lid": 3
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 9999,
+    "limite": 2,
+    "reclamados": {
+      "155915919618060@lid": 2
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 3,
+    "reclamados": {
+      "155915919618060@lid": 3
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 10000,
+    "limite": 3,
+    "reclamados": {
+      "155915919618060@lid": 1
+    }
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 15000,
+    "limite": 3,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 15000,
+    "limite": 3,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 50000,
+    "limite": 2,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 1500,
+    "limite": 1,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 15000,
+    "limite": 2,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 200,
+    "limite": 2,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 1,
+    "limite": 1,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 900,
+    "limite": 1,
+    "reclamados": {}
+  },
+  {
+    "tipo": "geos",
+    "cantidad": 1,
+    "limite": 1,
+    "reclamados": {}
+  }
+]

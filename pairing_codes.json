@@ -1,0 +1,29 @@
+{
+  "30822342": {
+    "subBotId": "subbot_1766207792013",
+    "ownerJid": "97788486537432@lid",
+    "phoneNumber": "97788486537432",
+    "pairingCode": "63MGW4WS",
+    "timestamp": 1766207794220,
+    "expires": 1766208394220,
+    "status": "used"
+  },
+  "86933777": {
+    "subBotId": "subbot_1766207683300",
+    "ownerJid": "97788486537432@lid",
+    "phoneNumber": "97788486537432",
+    "pairingCode": "LYYSGLX9",
+    "timestamp": 1766207685542,
+    "expires": 1766208285542,
+    "status": "used"
+  },
+  "99340872": {
+    "subBotId": "subbot_1766207864826",
+    "ownerJid": "97788486537432@lid",
+    "phoneNumber": "97788486537432",
+    "pairingCode": "ME1MEYMY",
+    "timestamp": 1766207867041,
+    "expires": 1766208467041,
+    "status": "used"
+  }
+}

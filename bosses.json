@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Hornet",
+    "recompensa": 300,
+    "cooldown": 40,
+    "nivelMin": 2
+  },
+  {
+    "nombre": "FalsoCaballero",
+    "recompensa": 90,
+    "cooldown": 10,
+    "nivelMin": 1
+  },
+  {
+    "nombre": "Grimm",
+    "recompensa": 900,
+    "cooldown": 130,
+    "nivelMin": 5
+  }
+]

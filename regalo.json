@@ -1,0 +1,12 @@
+{
+  "grupo": "120363403892158857@g.us",
+  "geos": {
+    "cantidad": 9000,
+    "prob": 10
+  },
+  "personaje": {
+    "nombre": "Friki Claus",
+    "prob": 70
+  },
+  "reclamados": {}
+}

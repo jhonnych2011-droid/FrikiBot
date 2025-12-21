@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1763923400906,
+    "nombre": "Adam Navideño",
+    "tipo": "personaje",
+    "totalGrupo": 0,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1763923770369,
+    "nombre": "Vaggie",
+    "tipo": "personaje",
+    "totalGrupo": 0,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1763923806565,
+    "nombre": "moxxie",
+    "tipo": "geos",
+    "totalGrupo": 0,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1763923846371,
+    "nombre": "Milo J",
+    "tipo": "personaje",
+    "totalGrupo": 0,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1763924153635,
+    "nombre": "Adam Navideño",
+    "tipo": "personaje",
+    "totalGrupo": 0,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1763924481406,
+    "nombre": "Adam Navideño",
+    "tipo": "personaje",
+    "totalGrupo": 0,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1764444986665,
+    "nombre": "hornet",
+    "tipo": "geos",
+    "totalGlobal": 1,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1764445629889,
+    "nombre": "Zote",
+    "tipo": "personaje",
+    "totalGlobal": 1,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "164055369146382@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1764447622547,
+    "nombre": "Zote",
+    "tipo": "personaje",
+    "totalGlobal": 1,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  },
+  {
+    "id": 1764447655729,
+    "nombre": "Friki Claus",
+    "tipo": "personaje",
+    "totalGlobal": 1,
+    "maxPorPersona": 1,
+    "reclamados": {
+      "214461239546098@lid": 1
+    },
+    "grupo": "120363403892158857@g.us"
+  }
+]
